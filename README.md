@@ -20,6 +20,9 @@ git add .
 
 12. git pull origin main
 
+13. git branch developer1
+14. git checkout developer1
+
 
 
 
