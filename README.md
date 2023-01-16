@@ -1,5 +1,6 @@
 ### This is git Tutorial by idur
 
+### This chagnes made by developer2
 ```
 1. git init
 
@@ -22,6 +23,7 @@ git add .
 
 13. git branch developer1
 14. git checkout developer1
+15. git merge developer1
 
 
 
