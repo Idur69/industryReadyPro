@@ -16,6 +16,8 @@ git add .
 9. git push -u origin main
 
 10. git status
+11. git remote -v
+
 
 
 
