@@ -11,12 +11,14 @@ git add .
 
 6. git branch  ## if master, change if you want to main
 7. git branch -M main
-8. git remote add orgin https://github.com/Idur69/industryReadyPro.git
+8. git remote add origin https://github.com/Idur69/industryReadyPro.git
 
 9. git push -u origin main
 
 10. git status
 11. git remote -v
+
+12. git pull origin main
 
 
 
