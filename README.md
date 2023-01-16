@@ -13,5 +13,7 @@ git add .
 7. git branch -M main
 8. git remote add orgin https://github.com/Idur69/industryReadyPro.git
 
+9. git push origin main
+
 
 ```
