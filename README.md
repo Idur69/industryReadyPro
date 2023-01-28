@@ -24,8 +24,9 @@ git add .
 13. git branch developer1
 14. git checkout developer1
 15. git merge developer1
+16. git branch -d developer1
 
-
+https://drive.google.com/spreadsheets/d/1z77-43OUc-ceneJjAlyLIqaRbGe2r9b09IAIgLjee64/edit#grid=1149337657
 
 
 

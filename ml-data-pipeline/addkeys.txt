@@ -1,0 +1,9 @@
+
+# this data have to add inside vi ~/.bashrc
+
+export ENDPOINT_SCHEMA_URL=https://psrc-10wgj.ap-southeast-2.aws.confluent.cloud
+export API_KEY=N3LZNTGVW7LC7NSA
+export API_SECRET_KEY=lH0PEjfzWZwXqSgNuq2hlOGCD7giaOS0T0q5ZZXDCRIVDz2ZA+RVcCFhZNOJHtTb
+export BOOTSTRAP_SERVER=pkc-41p56.asia-south1.gcp.confluent.cloud:9092
+export SCHEMA_REGISTRY_API_KEY=GI4NZNJAZU2FFQNN
+export SCHEMA_REGISTRY_API_SECRET=tsPpCj5/Uj7QN/rwF1KmdQHCMFXuZpjMipcPO0YwJ7lzjglR1pF0VfOjdt7cYBds

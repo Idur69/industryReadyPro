@@ -1,0 +1,11 @@
+Schema key
+=== Confluent Cloud API key: lsrc-d9w5jo ===
+
+API key:
+GI4NZNJAZU2FFQNN
+
+API secret:
+tsPpCj5/Uj7QN/rwF1KmdQHCMFXuZpjMipcPO0YwJ7lzjglR1pF0VfOjdt7cYBds
+
+schema end point
+https://psrc-10wgj.ap-southeast-2.aws.confluent.cloud
